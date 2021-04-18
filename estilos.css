@@ -1,0 +1,101 @@
+header, section, footer, aside hgroup{
+    display: block;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+header {
+    background: lightseagreen;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.invitados{
+    text-align: left;
+    }
+p {
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+ul {
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    text-align: left;
+}
+aside {
+    font-size: 15px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: left;
+    background: #f8c291;
+}
+
+header, section, aside, article{
+    border: 1px solid black
+}
+
+
+
+
+div{
+    background: coral;
+}
+
+.seccion {
+    margin: 20px;
+    background: #F97F51;
+    border: 1px black;
+    width: 1000px;
+    float: left;
+}
+
+.columna {
+    margin: 20px;
+    width: 200px;
+    border: 1px solid black; 
+    float: left;
+}
+
+
+.pie {
+    clear: both
+}
+
+.cabeza {
+    background: #ffda79;
+}
+
+.articuloo {
+    background: #f8c291;
+}
+.arte {
+    background: #f8c291;
+}
+
+.articuli {
+    background: #f8c291;
+}
+
+body {
+    background: #e58e26;
+}
